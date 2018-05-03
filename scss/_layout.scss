@@ -1,0 +1,9 @@
+.layout{
+  display: flex;
+  flex-wrap: wrap;
+  // justify-content: space-around;
+  width:750px;
+  position: absolute;
+  top: calc(50% - 245px);
+  left: calc(50% - 375px);
+}

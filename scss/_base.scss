@@ -1,0 +1,23 @@
+body{
+  background: slategrey;
+  margin: 40px;
+  // display: flex;
+  // justify-content: center;
+}
+
+.it, .is, .half, .quarter, .justAfter, .almost, ,.comming, .up, .on, .till, .past, .one, .two, .three, .four, .five , .six, .seven, .eight, .nine, .ten , .eleven , .twelve{
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  color: black;
+  opacity: .2;
+}
+
+.it, .is{
+  color: white;
+  word-spacing: 10px;
+  opacity: 1;
+}
